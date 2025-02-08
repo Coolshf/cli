@@ -1,2 +1,1 @@
-hola me llamo chanchito dfeliz
-soy muy listo y voy al colegio
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imrane43/Prisonlife/refs/heads/main/Prisonlife",true))()
